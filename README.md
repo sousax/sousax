@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/?user=sousax&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=sousax&theme=radical" />
 </p>
 
 ---
