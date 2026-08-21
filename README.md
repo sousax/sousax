@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Eduardo Miranda 👋</h1>
 
-<h3 align="center"> Broker Analyst | Developer</h3>
+<h3 align="center"> Broker Analyst| Developer</h3>
 
 <p align="center">
   Building automations that bridge the world of foreign trade with the world of code 🚀
@@ -43,12 +43,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sousax&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sousax&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousax&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousax&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sousax&theme=radical" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=sousax&theme=radical" />
 </p>
 
 ---
