@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Eduardo Miranda 👋</h1>
 
-<h3 align="center">Foreign Trade Analyst | Developer</h3>
+<h3 align="center"> Broker Analyst | Developer</h3>
 
 <p align="center">
   Building automations that bridge the world of foreign trade with the world of code 🚀
