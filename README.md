@@ -17,34 +17,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/JustineDevs">
-    <img src="https://img.shields.io/badge/GitHub-Visit-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=333333" alt="GitHub">
-  </a>
-
-  <a href="https://x.com/traderg">
-    <img src="https://img.shields.io/badge/Follow-333333?style=for-the-badge&logo=x&logoColor=white&labelColor=333333" alt="X">
-  </a>
-
-  <a href="https://jstn.site">
-    <img src="https://img.shields.io/badge/Website-Visit-333333?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=333333" alt="Website">
-  </a>
-
-  <a href="https://buymeacoffee.com/justinedevs">
-    <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-333333?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=333333" alt="Buy Me a Coffee">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.npmjs.com/jstn-sdk/ma"><img alt="downloads" src="https://shieldcn.dev/npm/dm/ma.svg?variant=secondary" /></a>
-  <a href="https://www.npmjs.com/jstn-sdk/rcs"><img alt="downloads" src="https://shieldcn.dev/npm/dm/rcs.svg?variant=secondary" /></a>
-  <a href="https://www.npmjs.com/package/go-mirofish-sdk"><img alt="downloads" src="https://shieldcn.dev/npm/dm/go-mirofish-sdk.svg?variant=secondary" /></a>
-</p>
-
-<p align="center">
-  <img alt="badge group" src="https://shieldcn.dev/group/github/sponsors/justinedevs+views/user/justinedevs.svg?variant=secondary" />
-</p>
-
 ### 🧑‍💻 About me
 
 - 📦 Working in **import operations and foreign trade**
