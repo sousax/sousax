@@ -20,7 +20,7 @@
 
 
 ## 🧠 My Focus Areas
-- Web development
+- Fullstack Development
 - AI Automation
 - Software Development
 
