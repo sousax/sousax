@@ -13,8 +13,8 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 📦 Working in **import operations and foreign trade**
-- 💻 Building **automation tools** to streamline daily processes.
+- 📦 Working in fullstack developtment
+- 💻 Building **automation tools** to streamline daily processes and full Apps.
 - 🎮 Also enjoy developing with **Unity3D**
 - ⚡ Always looking to turn repetitive manual processes into automated solutions
 
