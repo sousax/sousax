@@ -13,7 +13,7 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 📦 Working in fullstack developtment
+- 📦 Working in fullstack development
 - 💻 Building **automation tools** to streamline daily processes and full Apps.
 - 🎮 Also enjoy developing with **Unity3D**
 - ⚡ Always looking to turn repetitive manual processes into automated solutions
@@ -23,6 +23,18 @@
 - Fullstack Development
 - AI Automation
 - Software Development
+
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [NexusIA](https://github.com/sousax/NexusIA) · [live](https://nexusaidsv.streamlit.app/) | AI that checks Part Number × NCM × description in logistics systems | Python, Streamlit |
+| [CardCheckMTG](https://github.com/sousax/CardCheckMTG) · [live](https://mtgcardlist.com.br) | Magic: The Gathering deck lists: track the cards you own and the ones to buy | TypeScript |
+| [personal-finance](https://github.com/sousax/personal-finance) · [live](https://ownfin.vercel.app) | Personal finance app | React, Tailwind, Supabase |
+| [PDFMaster](https://github.com/sousax/PDFMaster) · [live](https://sousax.github.io/PDFMaster/) | Merge, split, rotate and convert PDFs 100% in the browser | JavaScript, pdf-lib, PDF.js |
+| [mangaverse](https://github.com/sousax/mangaverse) | Manga reader in pt-br backed by the MangaDex API | React, Vite, Node |
+| [ginfes](https://github.com/sousax/ginfes) | CLI that bulk-downloads NFS-e invoices from Santos' Ginfes portal | TypeScript, Playwright |
 
 
 ## 📊 GitHub Stats & Trophies
@@ -98,12 +110,8 @@
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/edusousax/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Eduardo Sousa's LinkedIn"/></a>&nbsp;
-  <a href="mailto:eduardomssousa@hotmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Eduardo Sousa's Email"/></a>&nbsp;
+  <a href="mailto:eduardomssousa@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white&color=00FFFF" alt="Eduardo Sousa's Email"/></a>&nbsp;
   <a href="https://wa.me/5513988143206"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 <div align="center">
